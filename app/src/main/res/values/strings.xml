@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+
+    <string name="title_register">ĐĂNG KÝ NGƯỜI DÙNG</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_register">ĐĂNG KÝ</string>
+    <string name="btn_cancel">HUỶ</string>
+
+    <string name="err_invalid_name">Họ tên tối thiểu 3 ký tự</string>
+    <string name="err_invalid_email">Email không đúng định dạng</string>
+    <string name="err_invalid_phone">Số điện thoại không hợp lệ (10 số)</string>
+    <string name="err_short_pass">Mật khẩu tối thiểu 6 ký tự</string>
+    <string name="msg_register_fail">Đăng ký thất bại, vui lòng kiểm tra lại thông tin</string>
+
+    <string name="title_home">TRANG CHỦ</string>
+    <string name="home_welcome">Xin chào, %1$s!</string>
+    <string name="btn_logout">ĐĂNG XUẤT</string>
+</resources>
